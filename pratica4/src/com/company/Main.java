@@ -39,7 +39,7 @@ public static void amazon(String modelo){
 
         try {
 
-
+sdasdasd
 
 
             String telefono = driver.findElement(By.xpath("/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[" + i + "]/div/span/div/div/div[2]/div[2]/div/div[1]/div/div/div[1]/h2/a/span")).getText();
